@@ -38,7 +38,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    ///Git updateed testing
 
     public boolean onNavigationItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId()) {
