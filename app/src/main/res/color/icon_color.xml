@@ -3,5 +3,6 @@
 
     <item android:color="#ffff" android:state_checked="true"/>
     <item android:color="#200227" android:state_checked="false"/>
+<!--    <item android:color="#200227" android:state_checked="false"/>-->
 
 </selector>
