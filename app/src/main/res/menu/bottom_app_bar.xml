@@ -5,6 +5,7 @@
 
     <item
             android:id="@+id/item1"
+        android:enabled="true"
             android:icon="@drawable/ic_baseline_local_florist_24"
             android:title="Item 01"
             android:contentDescription="Search Dis"
@@ -15,6 +16,7 @@
 
     <item
         android:id="@+id/item2"
+        android:enabled="true"
         android:icon="@drawable/ic_baseline_local_airport_24"
         android:title="Item 02"
         android:contentDescription="Title Discrip"
@@ -27,6 +29,7 @@
 
     <item
         android:id="@+id/item3"
+        android:enabled="true"
         android:icon="@drawable/ic_baseline_drag_indicator_24"
         android:title="Item 03"
         android:contentDescription="Title Discrip"
@@ -35,6 +38,7 @@
 
     <item
         android:id="@+id/item4"
+        android:enabled="true"
         android:icon="@drawable/ic_baseline_local_florist_24"
         android:title="Item 04"
         android:contentDescription="Search Dis"
